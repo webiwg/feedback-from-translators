@@ -1,5 +1,7 @@
 # List of translation projects on Github
 
+Did you know a new one? Make a pull request, or [comment here suggestion](https://github.com/webiwg/feedback-from-translators/issues/5).
+
 Search on Github:
 -  [a18n (Internalization)](//github.com/search?q=a18n+OR+Internationalization)
 -  [l10n (Localization)](//github.com/search?q=l10n+OR+Localization)
